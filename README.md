@@ -1,3 +1,5 @@
+# **AnalysisAI - The expert system created during the writing of the master's thesis.**
+
 AnalysisAI is a one-page application that helps in chemical analysis and allows to better manage laboratory. 
 It uses custom image detection and image classification algorithms to distinguish chemical analysis results.
 The main functionality is a voice assistant that will guide through the stages of chemical analysis.
